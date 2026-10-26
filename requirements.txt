@@ -1,0 +1,6 @@
+flet==1.0.5
+flet-web==1.0.5
+fastapi==0.115.12
+uvicorn==0.54.0
+pillow==13.0.0
+pillow-heif==1.8.1
